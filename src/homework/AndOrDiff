@@ -1,0 +1,4 @@
+Q: What difference between || and |? && and &?
+
+A:  |, &. Right side is checked always
+    ||, &&. Right side is checked only, if left sides is true
